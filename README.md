@@ -1,4 +1,5 @@
 # Marketing Bancário usando IA Generativa
+![ROBO LEGAL](https://dm0fehhuxv6f6.cloudfront.net/wp-content/uploads/2023/02/17090245/imagem_2023-01-18_110006323.webp)
 Este projeto tem como objetivo envolver os clientes de maneira mais personalizada, utilizando o poder da Inteligência Artificial Generativa (IA) para criar mensagens de marketing personalizadas que serão entregues a cada cliente. Para alcançar esse objetivo, vamos seguir as seguintes condições do problema:
 
 ## Entendimento do Negócio
