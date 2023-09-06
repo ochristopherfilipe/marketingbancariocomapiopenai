@@ -1,0 +1,2 @@
+# marketingbancariocomapiopenai
+Marketing bancário chatgpt
